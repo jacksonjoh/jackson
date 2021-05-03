@@ -2,7 +2,7 @@
 
 Error: Downloading time script fixed in this version.
 
-Watch the tutorial to get your RDP/VM at https://youtu.be/PHvU_ja4cEg
+Watch the [Tutorial to get your RDP/VM](https://youtu.be/PHvU_ja4cEg)
 
 
 
